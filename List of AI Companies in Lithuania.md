@@ -6,3 +6,4 @@
 | Tokenmill | We organize the flow of unstructured text into searchable and analyzable data. | www.tokenmill.lt |
 | Exacaster | We provide managed Big Data infrastructure and marketing automation software powered by Data Science so that you can focus on the customer. | www.exacaster.com |
 | True Insight | We improve advertising using deep learning by predicting where people would look at images and videos. | www.trueinsightlab.com/real-eye/ |
+| Pixevia | A.I. for smart cities and drones | www.pixevia.com |
