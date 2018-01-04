@@ -7,3 +7,5 @@
 | Exacaster | We provide managed Big Data infrastructure and marketing automation software powered by Data Science so that you can focus on the customer. | www.exacaster.com |
 | True Insight | We improve advertising using deep learning by predicting where people would look at images and videos. | www.trueinsightlab.com/real-eye/ |
 | Pixevia | A.I. for smart cities and drones | www.pixevia.com |
+| Power of eye | A.I. for smart process analysis and control | https://rekvizitai.vz.lt/imone/power_of_eye/ |
+| KTU | Department of Automation at KTU uses A.I for processes quality analysis and control | http://2017.ktu.edu/en/faculty-electrical-and-electronics-engineering/research |
