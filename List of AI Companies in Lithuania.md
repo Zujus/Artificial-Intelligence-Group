@@ -8,3 +8,5 @@
 | True Insight | We improve advertising using deep learning by predicting where people would look at images and videos. | www.trueinsightlab.com/real-eye/ |
 | Pixevia | A.I. for smart cities and drones | www.pixevia.com |
 | GradientInsight | Digital pathology image segmentation | www.gradientinsight.com |
+| KTU | A.I. process control and visual inspection | www.ktu.edu |
+| Power of eye | A.I. for image and data analysis | https://rekvizitai.vz.lt/imone/power_of_eye/ |
