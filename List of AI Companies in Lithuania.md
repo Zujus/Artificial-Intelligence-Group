@@ -8,3 +8,4 @@
 | True Insight | We improve advertising using deep learning by predicting where people would look at images and videos. | www.trueinsightlab.com/real-eye/ |
 | Pixevia | A.I. for smart cities and drones | www.pixevia.com |
 | NFQ | Machine learning with big data | www.nfq.lt |
+| Gradient Insight | Digital pathology image segmentation | www.gradientinsight.com |
