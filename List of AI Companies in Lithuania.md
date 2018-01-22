@@ -9,3 +9,4 @@
 | Pixevia | A.I. for smart cities and drones | www.pixevia.com |
 | NFQ | Machine learning with big data | www.nfq.lt |
 | Gradient Insight | Digital pathology image segmentation | www.gradientinsight.com |
+| CUJO | Network Security and Device Intelligence | www.getcujo.com |
