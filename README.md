@@ -19,7 +19,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 
 | Company | Description | Website |
 | :--- | :--- | :--- |
-| Santience | Turning IOT sensor data into behavioral insights | www.sentiance.com/ |
+| Sentiance | Turning IOT sensor data into behavioral insights | www.sentiance.com/ |
 | CUJO | Network Security and Device Intelligence | www.getcujo.com |
 | Convious | The A.I. driven sales funnel for the leisure, travel and lodging markets. | www.convio.us |
 
