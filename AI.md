@@ -105,7 +105,7 @@ Mostly this is inspired by and continuation of the work by Marvin Minsky, of whi
 
 It is used by at least these universities:
 
-* [Massachusetts Institute of Technology (6.034 - Artificial Intelligence - Fall 2017)](https://ai6034.mit.edu/wiki/index.php?title=Reference_material_and_playlist)
+* [Massachusetts Institute of Technology (6.034 - Artificial Intelligence - Fall 2017)](https://ai6034.mit.edu/)
 * [University of Toronto (CSC384 - Introduction to Artificial Intelligence - Winter 2018)](http://www.teach.cs.toronto.edu/~csc384h/winter/lectures.html)
 * [University of Oxford (Intelligent Systems: 2017-2018)](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/intellsystems/index.html)
 * [Carnegie Mellon University (15-381/681 - Artificial Intelligence: Representation and Problem Solving - Fall 2017)](http://www.cs.cmu.edu/~15381-f17/)
