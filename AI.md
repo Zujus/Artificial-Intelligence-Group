@@ -23,7 +23,7 @@ Finally, there is [this one by Sheila McIlraith](http://www.teach.cs.toronto.edu
 
 First wave is currently the "new normal".
 
-Concretely, using some things taught at MIT, __a company in 2018 is considered to do AI if it works with these methods: nearest neighbor learning, decision tree learning, neural net learning, deep neural net learning, genetic algorithms, sparse trees, support-vector machines, bayesian inference, boosting and similar__.
+Concretely, using the list of second wave AI technologies taught at MIT, __a company in 2018 is considered to do AI if it works with these methods: nearest neighbor learning, decision tree learning, neural net learning, deep neural net learning, genetic algorithms, sparse trees, support-vector machines, bayesian inference, boosting and similar__.
 Goal trees, rule based expert systems, search, games, constraint programming and similar do not count!
 
 Wikipedia has longer definitions, but if this subject is new to you, it can help in mapping out the big picture: [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), [Artificial general intelligence / Strong AI / Full AI / General AI / "true" AI](https://en.wikipedia.org/wiki/Artificial_general_intelligence), [Weak AI / Narrow AI / Applied AI](https://en.wikipedia.org/wiki/Weak_AI) and [AI-complete / AI-complete](https://en.wikipedia.org/wiki/AI-complete).
