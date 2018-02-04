@@ -116,6 +116,5 @@ It defines AI as a field that tries to "build intelligent entities", not only to
 
 It tells that AI has a huge variety of subfields and is a truly universal field.
 
-It uses four views of AI model to classify the AI systems:
-
+Also:
 ![Four Views of AI](https://image.slidesharecdn.com/01-intro1-120330194216-phpapp01/95/01-intro1-12-728.jpg)
