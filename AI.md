@@ -73,7 +73,8 @@ The sequence of reference material indicates that the definition of AI is the sa
 * For the third wave of contextual adaptation technologies they mostly plan to develop systems using biologically informed (3 M's - internal Mental models for stories; Math; Music) models.
 
 They also have a future-focused course [6.803/6.833 - The Human Intelligence Enterprise - Spring 2018](http://courses.csail.mit.edu/6.803/) and [Genesis](http://groups.csail.mit.edu/genesis/) research group.
-Mostly this is inspired by and continuation of the work by Marvin Minsky, of which there is a good accessible presentation in his book [The Emotion Machine](http://www.simonandschuster.com/books/The-Emotion-Machine/Marvin-Minsky/9780743276641).
+These are parts of the Narrative Intelligence / "stories are important" area, in which Roger Carl Schank did the strongest initial work.
+Which was also mostly inspired by the previous generation of thinkers, including Marvin Minsky, of whose work there is a good accessible presentation in his book [The Emotion Machine](http://www.simonandschuster.com/books/The-Emotion-Machine/Marvin-Minsky/9780743276641).
 
 ## [First lecture](http://www.cs.cmu.edu/~15381-f17/intro%20to%20AI.pptx) in Carnegie Mellon University (15-381/681 - Artificial Intelligence: Representation and Problem Solving - Fall 2017)
 
