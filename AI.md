@@ -72,8 +72,9 @@ The sequence of reference material indicates that the definition of AI is the sa
 * For the second wave there is nearest neighbor learning, decision tree learning, neural net learning, deep neural net learning, genetic algorithms, sparse trees, support-vector machines, bayesian inference and boosting.
 * For the third wave of contextual adaptation technologies they mostly plan to develop systems using biologically informed (3 M's - internal Mental models for stories; Math; Music) models.
 
-They also have a future-focused course [6.803/6.833 - The Human Intelligence Enterprise - Spring 2018](http://courses.csail.mit.edu/6.803/) and [Genesis](http://groups.csail.mit.edu/genesis/) research group.
-These are parts of the Narrative Intelligence / "stories are important" area, in which Roger Carl Schank did the strongest initial work.
+
+They also have a [future](https://dspace.mit.edu/handle/1721.1/108137)-focused course [6.803/6.833 - The Human Intelligence Enterprise - Spring 2018](http://courses.csail.mit.edu/6.803/) and [Genesis](http://groups.csail.mit.edu/genesis/) research group, which [implement vision that stories are important](courses.csail.mit.edu/6.034f/Manifesto.pdf).
+These contribute to current reemergence of work on the Narrative Intelligence area (more [here](https://medium.com/@mark_riedl/computational-narrative-intelligence-past-present-and-future-99e58cf25ffa) and [here](https://medium.com/@darmenab/in-2017-narrative-intelligence-will-be-your-edge-over-artificial-intelligence-d978e9427c35) and [here](https://users.soe.ucsc.edu/~michaelm/publications/mateas-aaai-symp-ni-1999.pdf)), in which Roger Carl Schank did the strongest initial work.
 Which was also mostly inspired by the previous generation of thinkers, including Marvin Minsky, of whose work there is a good accessible presentation in his book [The Emotion Machine](http://www.simonandschuster.com/books/The-Emotion-Machine/Marvin-Minsky/9780743276641).
 
 ## [First lecture](http://www.cs.cmu.edu/~15381-f17/intro%20to%20AI.pptx) in Carnegie Mellon University (15-381/681 - Artificial Intelligence: Representation and Problem Solving - Fall 2017)
