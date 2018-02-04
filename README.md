@@ -1,7 +1,7 @@
 # Artificial-Intelligence-Group
 Artificial Intelligence Group is a collective effort to bring a strong AI community together, starting within Lithuania.
 
-# List of AI Companies originating from Lithuania
+## List of AI Companies originating from Lithuania
 
 | Company | Description | Website |
 | :--- | :--- | :--- |
@@ -15,7 +15,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | NFQ | Machine learning with big data | www.nfq.lt |
 | Gradient Insight | Digital pathology image segmentation | www.gradientinsight.com |
 
-# List of AI Companies with offices in Lithuania
+## List of AI Companies with offices in Lithuania
 
 | Company | Description | Website |
 | :--- | :--- | :--- |
@@ -23,5 +23,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | CUJO | Network Security and Device Intelligence | www.getcujo.com |
 | Convious | The A.I. driven sales funnel for the leisure, travel and lodging markets. | www.convio.us |
 
+## What is an AI Company?
 
-
+A company in 2018 is considered to do AI if it works with these methods: nearest neighbor learning, decision tree learning, neural net learning, deep neural net learning, genetic algorithms, sparse trees, support-vector machines, bayesian inference, boosting and similar.
+For a more expanded reasoning, read [AI](https://github.com/Zujus/Artificial-Intelligence-Group/blob/master/AI.md).
