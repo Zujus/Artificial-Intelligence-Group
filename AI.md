@@ -5,7 +5,7 @@ Discussion started in [the Facebook group](https://www.facebook.com/groups/artif
 The overall best already publicly written definition is the first two paragraphs by Amazon in [an article on Machine Learning on AWS](https://aws.amazon.com/machine-learning/what-is-ai/).
 
 But what does a modern company in 2018 have to do to be considered doing Artificial Intelligence?
-The answer is: it has to work with [second wave AI technologies and/or develop third wave AI technologies](https://www.youtube.com/watch?v=-O01G3tSYpU), see the John Launchbury section below for summary.
+The answer is: it has to work with [second wave AI technologies and/or develop third wave AI technologies](https://youtu.be/-O01G3tSYpU?t=3m43s), see the John Launchbury section below for summary.
 That's it.
 It's the simplest model of all of them in the sections below.
 You can stop reading now.
