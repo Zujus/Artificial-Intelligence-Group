@@ -23,7 +23,7 @@ Finally, there is [this one by Sheila McIlraith](http://www.teach.cs.toronto.edu
 
 First wave is currently the "new normal".
 
-Concretely, using the list of second wave AI technologies taught at MIT, __a company in 2018 is considered to do AI if it works with these methods: nearest neighbor learning, decision tree learning, neural net learning, deep neural net learning, genetic algorithms, sparse trees, support-vector machines, bayesian inference, boosting and similar__.
+Concretely, using the list of second wave AI technologies taught at [MIT](https://ai6034.mit.edu/wiki/index.php?title=Reference_material_and_playlist), __a company in 2018 is considered to do AI if it works with these methods: nearest neighbor learning, decision tree learning, neural net learning, deep neural net learning, genetic algorithms, sparse trees, support-vector machines, bayesian inference, boosting and similar__.
 Goal trees, rule based expert systems, search, games, constraint programming and similar do not count!
 
 Wikipedia has longer definitions, but if this subject is new to you, it can help in mapping out the big picture: [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), [Artificial general intelligence / Strong AI / Full AI / General AI / "true" AI](https://en.wikipedia.org/wiki/Artificial_general_intelligence), [Weak AI / Narrow AI / Applied AI](https://en.wikipedia.org/wiki/Weak_AI) and [AI-complete / AI-complete](https://en.wikipedia.org/wiki/AI-complete).
@@ -62,7 +62,7 @@ The 8th slide contains "The Five Tribes of Machine Learning":
 
 > I conclude by suggesting, optimistically, that a genuine computational theory of human intelligence will emerge in the next 50 years if we stick to the right, biologically inspired questions, and work toward biologically informed models.
 
-## First lecture in [6.034 - Artificial Intelligence - Fall 2017](https://ai6034.mit.edu/wiki/index.php?title=Reference_material_and_playlist)
+## First lecture in [Massachusetts Institute of Technology (6.034 - Artificial Intelligence - Fall 2017)](https://ai6034.mit.edu/wiki/index.php?title=Reference_material_and_playlist)
 
 It is called "What it's all about", but the content is not publicly available.
 Thus use the reference material to decide what they define as a set of artificial intelligence methods.
