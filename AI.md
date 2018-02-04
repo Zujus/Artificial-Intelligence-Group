@@ -12,7 +12,7 @@ You can stop reading now.
 
 Why are the first wave AI technologies excluded from the definition?
 It is illogical!
-Because: 1) all software companies are using them. 2) Marvin Minsky once said "It often does more harm than good to force definitions on things we don't understand."
+Yes, but: 1) all software companies are using them. 2) Marvin Minsky once said "It often does more harm than good to force definitions on things we don't understand."
 So a part of AI is very playfully excluded from the definition of (a modern) AI.
 Finally, there is [this one by Sheila McIlraith](http://www.teach.cs.toronto.edu/~csc384h/winter/Lectures/csc384w18-Lecture01-Intro.pdf):
 
