@@ -14,6 +14,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | Pixevia | A.I. for smart cities and drones | www.pixevia.com |
 | NFQ | Machine learning with big data | www.nfq.lt |
 | Gradient Insight | Digital pathology image segmentation | www.gradientinsight.com |
+| NextQuestion | Deep learning for demand prediction in retail industries | nextquestion.io |
 
 ## List of AI Companies with offices in Lithuania
 
