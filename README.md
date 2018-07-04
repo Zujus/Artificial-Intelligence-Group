@@ -15,6 +15,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | NFQ | Machine learning with big data | www.nfq.lt |
 | Gradient Insight | Digital pathology image segmentation | www.gradientinsight.com |
 | NextQuestion | Deep learning for demand prediction in retail industries | www.nextquestion.io |
+| Planner 5D | Home design and interior decor | https://planner5d.com/ |
 
 ## List of AI Companies with offices in Lithuania
 
