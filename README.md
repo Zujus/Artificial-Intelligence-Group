@@ -15,6 +15,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | NFQ | Machine learning with big data | www.nfq.lt |
 | Gradient Insight | Digital pathology image segmentation | www.gradientinsight.com |
 | NextQuestion | Deep learning for demand prediction in retail industries | www.nextquestion.io |
+| Perfection.AI | Perfection.AI is an optimization platform for game development companies | www.perfection.ai |
 | Planner 5D | Home design and interior decor | https://planner5d.com/ |
 
 ## List of AI Companies with offices in Lithuania
@@ -25,6 +26,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | CUJO | Network Security and Device Intelligence | www.getcujo.com |
 | Convious | The A.I. driven sales funnel for the leisure, travel and lodging markets. | www.convio.us |
 | Same System | Retail Workforce Solutions | www.samesystem.com |
+| Videntifier | The World's Most Powerful Visual Content Identification Engine | www.videntifier.com |
 
 ## What is an AI Company?
 
