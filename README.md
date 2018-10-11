@@ -26,6 +26,8 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | Convious | The A.I. driven sales funnel for the leisure, travel and lodging markets. | www.convio.us |
 | Same System | Retail Workforce Solutions | www.samesystem.com |
 | Videntifier | The World's Most Powerful Visual Content Identification Engine | www.videntifier.com |
+| Unity Technologies | Game engine + cross-platform Artificial Neural Network execution (inference) engine in the edge - mobiles, web, game consoles, AR headsets. | https://unity3d.com/labs |
+
 
 ## What is an AI Company?
 
