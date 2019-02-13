@@ -13,8 +13,6 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | Gradient Insight | Digital pathology image segmentation | www.gradientinsight.com |
 | NextQuestion | Deep learning for demand prediction in retail industries | www.nextquestion.io |
 | Perfection.AI | Perfection.AI is an optimization platform for game development companies | www.perfection.ai |
-| GeoPhy |  Fast, reliable valuations for commercial real estate, powered by artificial intelligence | www.geophy.com |
-| Adform |  We deliver local service with a global footprint as one of the world's largest private and independent advertising technology companies | https://site.adform.com |
 
 
 ## List of AI Service Companies originating from Lithuania
@@ -33,6 +31,9 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | Convious | The A.I. driven sales funnel for the leisure, travel and lodging markets. | www.convio.us |
 | Same System | Retail Workforce Solutions | www.samesystem.com |
 | Videntifier | The World's Most Powerful Visual Content Identification Engine | www.videntifier.com |
+| GeoPhy |  Fast, reliable valuations for commercial real estate, powered by artificial intelligence | www.geophy.com |
+| Adform |  We deliver local service with a global footprint as one of the world's largest private and independent advertising technology companies | https://site.adform.com |
+
 
 ## What is an AI Company?
 
