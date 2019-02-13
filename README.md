@@ -16,6 +16,8 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 
 
 ## List of AI Service Companies originating from Lithuania
+| Company | Description | Website |
+| :--- | :--- | :--- |
 | BPTI | Baltic Institute of Advanced Technology (BPTI) is a private, high quality research-oriented institute, creating and developing new technologies. | www.bpti.eu |
 | Tokenmill | We organize the flow of unstructured text into searchable and analyzable data. | www.tokenmill.lt |
 | NFQ | Machine learning with big data | www.nfq.lt |
