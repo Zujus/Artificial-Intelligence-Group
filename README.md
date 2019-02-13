@@ -3,7 +3,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 
 ## List of AI Product Companies originating from Lithuania
 
-| Company | Description | Website |
+| Company | Description / Product | Website |
 | :--- | :--- | :--- |
 | Neurotechnology | Neurotechnology offers large-scale multi-biometric AFIS SDK, PC-based, embedded, smart card fingerprint, face, eye iris, voice, and palmprint identification SDK. Research and development in AI and robotics | www.neurotechnology.com |
 | Oxipit.ai | We solve medical problems using deep learning | www.oxipit.ai |
@@ -16,7 +16,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 
 
 ## List of AI Service Companies originating from Lithuania
-| Company | Description | Website |
+| Company | Description / Service | Website |
 | :--- | :--- | :--- |
 | BPTI | Baltic Institute of Advanced Technology (BPTI) is a private, high quality research-oriented institute, creating and developing new technologies. | www.bpti.eu |
 | Tokenmill | We organize the flow of unstructured text into searchable and analyzable data. | www.tokenmill.lt |
@@ -24,7 +24,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 
 ## List of AI Product Companies with offices in Lithuania
 
-| Company | Description | Website |
+| Company | Description / Product | Website |
 | :--- | :--- | :--- |
 | Sentiance | Turning IOT sensor data into behavioral insights | www.sentiance.com |
 | CUJO | Network Security and Device Intelligence | www.getcujo.com |
