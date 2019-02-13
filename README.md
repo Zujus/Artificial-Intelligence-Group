@@ -44,7 +44,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | Videntifier | The World's Most Powerful Visual Content Identification Engine | www.videntifier.com |
 | GeoPhy |  Fast, reliable valuations for commercial real estate, powered by artificial intelligence | www.geophy.com |
 | Adform |  We deliver local service with a global footprint as one of the world's largest private and independent advertising technology companies | https://site.adform.com |
-
+| Unity Technologies | A.I. efforts at Unity are aimed at helping game developers making games and range from content generation to in-game decision making. Check out our ML Agents toolkit for Reinforcement Learning | https://unity3d.com/machine-learning |
 
 ## What is an AI Company?
 
