@@ -14,13 +14,25 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | NextQuestion | Deep learning for demand prediction in retail industries | www.nextquestion.io |
 | Perfection.AI | Perfection.AI is an optimization platform for game development companies | www.perfection.ai |
 
-
 ## List of AI Service Companies originating from Lithuania
 | Company | Description / Service | Website |
 | :--- | :--- | :--- |
 | BPTI | Baltic Institute of Advanced Technology (BPTI) is a private, high quality research-oriented institute, creating and developing new technologies. | www.bpti.eu |
 | Tokenmill | We organize the flow of unstructured text into searchable and analyzable data. | www.tokenmill.lt |
 | NFQ | Machine learning with big data | www.nfq.lt |
+| Agmis | Software and staffing solutions company. Agmis provides cloud and mobile solutions for worldwide customers | www.agmis.lt |
+| Centric |  Centric offers Software Solutions, IT Outsourcing, Business Process Outsourcing and Staffing Services | www.centric.eu |
+| MERA |  MERA is a software services provider for Automotive, ICT/Telco, Industrial Automation, Transportation, Robotics, and FinTech industries | www.mera.com |
+
+## List of Companies from Lithuania using AI in their Products 
+| Company | Description / Product | Website |
+| :--- | :--- | :--- |
+| Planner 5D | Home design and interior decor | https://planner5d.com/ |
+| Megodata | AI/ML applications for e-commerce and logistics | https://megodata.com/ |
+| iDenfy | iDenfy is an online identity verification company | www.idenfy.com |
+| Rubedos | Rubedos develops unmanned missioning and computer vision solutions for industrial applications | www.rubedos.com |
+| OAG |  With the world's largest network of air travel data, we provide unprecedented insight into flight data | www.oag.com |
+
 
 ## List of AI Product Companies with offices in Lithuania
 
