@@ -24,7 +24,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | Centric |  Centric offers Software Solutions, IT Outsourcing, Business Process Outsourcing and Staffing Services | www.centric.eu |
 | MERA |  MERA is a software services provider for Automotive, ICT/Telco, Industrial Automation, Transportation, Robotics, and FinTech industries | www.mera.com |
 
-## List of Companies from Lithuania using AI in their Products 
+## List of Companies Originating from Lithuania and using AI Technologies in Their Products 
 | Company | Description / Product | Website |
 | :--- | :--- | :--- |
 | Planner 5D | Home design and interior decor | https://planner5d.com/ |
@@ -32,7 +32,6 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | iDenfy | iDenfy is an online identity verification company | www.idenfy.com |
 | Rubedos | Rubedos develops unmanned missioning and computer vision solutions for industrial applications | www.rubedos.com |
 | OAG |  With the world's largest network of air travel data, we provide unprecedented insight into flight data | www.oag.com |
-
 
 ## List of AI Product Companies with offices in Lithuania
 
