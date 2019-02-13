@@ -16,6 +16,9 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | Gradient Insight | Digital pathology image segmentation | www.gradientinsight.com |
 | NextQuestion | Deep learning for demand prediction in retail industries | www.nextquestion.io |
 | Perfection.AI | Perfection.AI is an optimization platform for game development companies | www.perfection.ai |
+| iDenfy | iDenfy is an online identity verification company | www.idenfy.com |
+| Rubedos | Rubedos develops unmanned missioning and computer vision solutions for industrial applications | www.rubedos.com |
+| agmis | Software and staffing solutions company. Agmis provides cloud and mobile solutions for worldwide customers | www.agmis.lt |
 
 ## List of AI Companies with offices in Lithuania
 
@@ -26,6 +29,11 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | Convious | The A.I. driven sales funnel for the leisure, travel and lodging markets. | www.convio.us |
 | Same System | Retail Workforce Solutions | www.samesystem.com |
 | Videntifier | The World's Most Powerful Visual Content Identification Engine | www.videntifier.com |
+| Centric |  Centric offers Software Solutions, IT Outsourcing, Business Process Outsourcing and Staffing Services | www.centric.eu |
+| OAG |  With the world's largest network of air travel data, we provide unprecedented insight into flight data | www.oag.com |
+| GeoPhy |  Fast, reliable valuations for commercial real estate, powered by artificial intelligence | www.geophy.com |
+| adform |  We deliver local service with a global footprint as one of the world's largest private and independent advertising technology companies | https://site.adform.com |
+| MERA |  MERA is a software services provider for Automotive, ICT/Telco, Industrial Automation, Transportation, Robotics, and FinTech industries | www.mera.com |
 
 ## What is an AI Company?
 
