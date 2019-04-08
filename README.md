@@ -27,7 +27,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 ## List of Companies Originating from Lithuania and using AI Technologies in Their Products 
 | Company | Description / Product | Website |
 | :--- | :--- | :--- |
-| GrafikAI | Automated human resources and timetables management platform | https://grafik.ai/ |
+| GrafikAI | Automated human resources and timetables management platform | wwww.grafik.ai/ |
 | Planner 5D | Home design and interior decor | https://planner5d.com/ |
 | Megodata | AI/ML applications for e-commerce and logistics | https://megodata.com/ |
 | iDenfy | iDenfy is an online identity verification company | www.idenfy.com |
