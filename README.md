@@ -5,6 +5,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 
 | Company | Description / Product | Website |
 | :--- | :--- | :--- |
+| Genus AI | We're building an Enterprise AI platform focusing on deep customer understanding, modelling and emotionally intelligent customer engagement | https://genus.ai |
 | Neurotechnology | Neurotechnology offers large-scale multi-biometric AFIS SDK, PC-based, embedded, smart card fingerprint, face, eye iris, voice, and palmprint identification SDK. Research and development in AI and robotics | www.neurotechnology.com |
 | Oxipit.ai | We solve medical problems using deep learning | www.oxipit.ai |
 | Exacaster | We provide managed Big Data infrastructure and marketing automation software powered by Data Science so that you can focus on the customer. | www.exacaster.com |
