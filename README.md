@@ -9,7 +9,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | Neurotechnology | Neurotechnology offers large-scale multi-biometric AFIS SDK, PC-based, embedded, smart card fingerprint, face, eye iris, voice, and palmprint identification SDK. Research and development in AI and robotics | www.neurotechnology.com |
 | Oxipit.ai | We solve medical problems using deep learning | www.oxipit.ai |
 | Exacaster | We provide managed Big Data infrastructure and marketing automation software powered by Data Science so that you can focus on the customer. | www.exacaster.com |
-| True Insight | We improve advertising using deep learning by predicting where people would look at images and videos. | www.trueinsightlab.com/real-eye |
+| Attention Insight | We improve advertising using deep learning by predicting where people would look at images and videos. | www.attentioninsight.ai |
 | Pixevia | A.I. for smart cities and drones | www.pixevia.com |
 | Gradient Insight | Digital pathology image segmentation | www.gradientinsight.com |
 | NextQuestion | Deep learning for demand prediction in retail industries | www.nextquestion.io |
