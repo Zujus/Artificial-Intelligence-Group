@@ -50,6 +50,8 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | Unity Technologies | A.I. efforts at Unity are aimed at helping game developers making games and range from content generation to in-game decision making. Check out our ML Agents toolkit for Reinforcement Learning | https://unity3d.com/machine-learning |
 
 ## List of Academic Institutions Working with AI in Lithuania
+| Institution | Description / Product | Website |
+| :--- | :--- | :--- |
 | BPTI | Baltic Institute of Advanced Technology (BPTI) is a private, high quality research-oriented institute, creating and developing new technologies. | www.bpti.eu |
 | KTU | Kaunas University of Technology | www.ktu.edu/ |
 
