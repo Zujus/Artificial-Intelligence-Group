@@ -5,7 +5,6 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 
 | Company | Description / Product | Website |
 | :--- | :--- | :--- |
-| Genus AI | We're building an Enterprise AI platform focusing on deep customer understanding, modelling and emotionally intelligent customer engagement | https://genus.ai |
 | Neurotechnology | Neurotechnology offers large-scale multi-biometric AFIS SDK, PC-based, embedded, smart card fingerprint, face, eye iris, voice, and palmprint identification SDK. Research and development in AI and robotics | www.neurotechnology.com |
 | Oxipit.ai | We solve medical problems using deep learning | www.oxipit.ai |
 | Exacaster | We provide managed Big Data infrastructure and marketing automation software powered by Data Science so that you can focus on the customer. | www.exacaster.com |
@@ -14,11 +13,12 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | Gradient Insight | Digital pathology image segmentation | www.gradientinsight.com |
 | NextQuestion | Deep learning for demand prediction in retail industries | www.nextquestion.io |
 | Perfection.AI | Perfection.AI is an optimization platform for game development companies | www.perfection.ai |
+| Genus AI | We're building an Enterprise AI platform focusing on deep customer understanding, modelling and emotionally intelligent customer engagement | https://genus.ai |
+
 
 ## List of AI Service Companies originating from Lithuania
 | Company | Description / Service | Website |
 | :--- | :--- | :--- |
-| BPTI | Baltic Institute of Advanced Technology (BPTI) is a private, high quality research-oriented institute, creating and developing new technologies. | www.bpti.eu |
 | Tokenmill | We organize the flow of unstructured text into searchable and analyzable data. | www.tokenmill.lt |
 | NFQ | Machine learning with big data | www.nfq.lt |
 | Agmis | Software and staffing solutions company. Agmis provides cloud and mobile solutions for worldwide customers | www.agmis.lt |
@@ -48,6 +48,11 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | GeoPhy |  Fast, reliable valuations for commercial real estate, powered by artificial intelligence | www.geophy.com |
 | Adform |  We deliver local service with a global footprint as one of the world's largest private and independent advertising technology companies | https://site.adform.com |
 | Unity Technologies | A.I. efforts at Unity are aimed at helping game developers making games and range from content generation to in-game decision making. Check out our ML Agents toolkit for Reinforcement Learning | https://unity3d.com/machine-learning |
+
+## List of Academic Institutions Working with AI in Lithuania
+| BPTI | Baltic Institute of Advanced Technology (BPTI) is a private, high quality research-oriented institute, creating and developing new technologies. | www.bpti.eu |
+| KTU | Kaunas University of Technology | www.ktu.edu/ |
+
 
 ## What is an AI Company?
 
