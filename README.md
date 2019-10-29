@@ -14,6 +14,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | NextQuestion | Deep learning for demand prediction in retail industries | www.nextquestion.io |
 | Perfection.AI | Perfection.AI is an optimization platform for game development companies | www.perfection.ai |
 | Genus AI | We're building an Enterprise AI platform focusing on deep customer understanding, modelling and emotionally intelligent customer engagement | https://genus.ai |
+| Biomatter Designs | Enabling technologies for protein engineering based on high throughput data acquisition methods and deep learning | www.biomatterdesigns.com |
 
 
 ## List of AI Service Companies originating from Lithuania
