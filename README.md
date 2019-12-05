@@ -35,7 +35,9 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | Megodata | AI/ML applications for e-commerce and logistics | https://megodata.com/ |
 | iDenfy | iDenfy is an online identity verification company | www.idenfy.com |
 | Rubedos | Rubedos develops unmanned missioning and computer vision solutions for industrial applications | www.rubedos.com |
-| OAG |  With the world's largest network of air travel data, we provide unprecedented insight into flight data | www.oag.com |
+| OAG |  With the world's largest network of air travel data, we provide unprecedented insight into flight data | www.oag.com 
+| Droplet Genomics | We make microfluidic instruments, consumables and data analysis tools - so biological samples can be analysed at the granularity of single cells | https://dropletgenomics.com |
+
 
 ## List of AI Product Companies with offices in Lithuania
 
