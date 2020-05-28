@@ -15,6 +15,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | Perfection.AI | Perfection.AI is an optimization platform for game development companies | www.perfection.ai |
 | Genus AI | We're building an Enterprise AI platform focusing on deep customer understanding, modelling and emotionally intelligent customer engagement | https://genus.ai |
 | Biomatter Designs | Enabling technologies for protein engineering based on high throughput data acquisition methods and deep learning | www.biomatterdesigns.com |
+| Eddy Travels | AI travel assistant to find the best flight and hotel deals | www.eddytravels.com |
 
 
 ## List of AI Service Companies originating from Lithuania
