@@ -16,6 +16,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | Genus AI | We're building an Enterprise AI platform focusing on deep customer understanding, modelling and emotionally intelligent customer engagement | https://genus.ai |
 | Biomatter Designs | Enabling technologies for protein engineering based on high throughput data acquisition methods and deep learning | www.biomatterdesigns.com |
 | Eddy Travels | AI travel assistant to find the best flight and hotel deals | www.eddytravels.com |
+| Technote | Technote is knowledge-graph based platform connecting the spheres of business, research and technology. | www.technote.ai | 
 
 
 ## List of AI Service Companies originating from Lithuania
@@ -26,7 +27,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | Agmis | Software and staffing solutions company. Agmis provides cloud and mobile solutions for worldwide customers | www.agmis.lt |
 | Centric |  Centric offers Software Solutions, IT Outsourcing, Business Process Outsourcing and Staffing Services | www.centric.eu |
 | MERA |  MERA is a software services provider for Automotive, ICT/Telco, Industrial Automation, Transportation, Robotics, and FinTech industries | www.mera.com |
-| Technote | Technote is knowledge-graph connecting the spheres of business, research and technology. | www.technote.ai | 
+
 
 ## List of Companies Originating from Lithuania and using AI Technologies in Their Products 
 | Company | Description / Product | Website |
