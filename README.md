@@ -26,6 +26,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | Agmis | Software and staffing solutions company. Agmis provides cloud and mobile solutions for worldwide customers | www.agmis.lt |
 | Centric |  Centric offers Software Solutions, IT Outsourcing, Business Process Outsourcing and Staffing Services | www.centric.eu |
 | MERA |  MERA is a software services provider for Automotive, ICT/Telco, Industrial Automation, Transportation, Robotics, and FinTech industries | www.mera.com |
+| Technote.ai | Technote is knowledge-graph connecting the spheres of business, research and technology. | https://www.technote.ai | 
 
 ## List of Companies Originating from Lithuania and using AI Technologies in Their Products 
 | Company | Description / Product | Website |
