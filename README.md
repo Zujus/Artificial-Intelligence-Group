@@ -30,6 +30,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 ## List of Companies Originating from Lithuania and using AI Technologies in Their Products 
 | Company | Description / Product | Website |
 | :--- | :--- | :--- |
+| Zyro | Zyro is a privately held software company, providing website building, eCommerce, and artificial intelligence solutions to consumers | https://zyro.com/ |
 | Hostinger | Web hosting | https://www.hostinger.com/ |
 | GrafikAI | Automated human resources and timetables management platform | https://grafikai.lt |
 | Planner 5D | Home design and interior decor | https://planner5d.com/ |
